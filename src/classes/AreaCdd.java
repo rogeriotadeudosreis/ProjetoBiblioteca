@@ -43,7 +43,7 @@ public class AreaCdd implements Comparable<AreaCdd> {
     public AreaCdd(String strDadosDaArea) throws Exception {
         String vetorString[] = strDadosDaArea.split(";");
         if (vetorString.length < 3) {
-            throw new Exception("Dados da Área Incompletos!\n");
+            throw new Exception("Dados da Área Incompletos!");
         }
         id = Integer.parseInt(vetorString[0]);
         cdd = (vetorString[1]);
