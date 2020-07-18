@@ -1,0 +1,62 @@
+340;DIREITO
+341;DIREITO PÚBLICO
+341.1;DIREITO INTERNACIONAL PÚBLICO
+341.13;Direito de Guerra. Leis de Guerra
+341.14;Direito Penal Internacional
+341.17;Direito diplomático
+341.18;Direito consular
+341.2;DIREITO CONSTITUCIONAL
+341.253;Direito parlamentar. Parlamentos e assembléias
+341.27;Direitos Fundamentais. Direitos primordiais
+341.28;Direito eleitoral. Sistemas eleitorais
+341.3;DIREITO ADMINISTRATIVO
+341.347;Direito Ambiental
+341.3479;Direito ambiental internacional
+341.378;Direito Econômico
+341.38;Direito Financeiro
+341.39;Direito tributário
+341.4;DIREITO PROCESSUAL
+341.43;Direito Processual Penal
+341.46;Direito Processual Civil
+341.5;DIREITO PENAL
+341.58;Direito Penitenciário. Direito de Execuções Penais
+341.6;DIREITO PREVIDENCIÁRIO. SEGURIDADE SOCIAL
+341.7;DIREITO MILITAR
+341.75;Direito penal militar
+341.8;DIREITO AÉREO. CÓDIGO DO AR
+341.87;Direito aéreo militar
+341.88;Direito aplicado à telecomunicação
+341.89;Direito Espacial
+342;DIREITO PRIVADO
+342.1;DIREITO CIVIL
+342.12;Direitos reais. Coisas e bens
+342.1247;Direito Agrário. Direito Rural
+342.16;Direito de família
+342.165;Direito hereditário ou das Sucessões
+342.17;Direito do Menor. Estatuto da Criança e do Adolescente (ECA)
+342.2;DIREITO COMERCIAL
+342.234;Direito bancário
+342.27;Direitos Intelectuais. Propriedade industrial, comercial, científica e de programas de computador
+342.28;Direito autoral. Direito artístico e literário
+342.29;Direito marítimo
+342.299;Direito aeronáutico
+342.3;DIREITO INTERNACIONAL PRIVADO
+342.5;DIREITO DO CONSUMIDOR
+342.51;Direitos básicos do consumidor
+342.6;DIREITO DO TRABALHO
+342.68;Direito Processual do Trabalho
+343;DIREITO CANÔNICO E ECLESIÁSTICO
+343.3;Direito das coisas. Direitos reais
+343.33;Direito de patronato
+343.35;Direito funerário
+343.4;Direito Sacramental
+343.5;Direito penal canônico
+343.6;Direito processual canônico
+343.8;Direito Eclesiástico das Igrejas Cristãs não católicas
+343.9;Direito Eclesiástico de Igrejas não-cristãs
+344;DIREITO ROMANO
+344.2;Direito das coisas. Direitos reais
+344.4;Direito das obrigações
+344.6;Direito de família
+344.7;Direito das sucessões
+1;direito 1
