@@ -1,2 +1,2 @@
 # ProjetoBiblioteca
-Sistema de controle de biblioteca
+Sistema de controle de biblioteca (Em andamento)
